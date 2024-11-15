@@ -19,3 +19,18 @@ MediScan Chatbot is an AI-powered image recognition tool designed to assist in t
 - Streamlit  
 - Required Python libraries (listed in `requirements.txt`)  
 
+
+---
+
+## Refer Images:  
+
+### Disease Detection Results: 
+
+![Screenshot 2024-11-15 135429](https://github.com/user-attachments/assets/24b910d3-5d38-4e2a-928c-f7d438a3ec29)
+
+### Explainable AI Visualization: 
+
+![Screenshot 2024-11-15 135454](https://github.com/user-attachments/assets/5e466613-fa4c-4f63-9563-d08c945ae66c) 
+
+---
+
